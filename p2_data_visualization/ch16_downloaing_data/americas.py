@@ -16,6 +16,5 @@ wm.add('Central America', ['ba', 'cr', 'gt', 'hn', 'ni', 'pa', 'sv'])
 wm.add('South America', ['ar', 'bo', 'br', 'cl', 'co', 'ec', 'gf',
                          'gy', 'pe', 'py', 'sr', 'uy', 've'])
 wm.add('China',['cn'])
-wm.add('Taiwan', ['tw'])
 
 wm.render_to_file('americas.svg')
